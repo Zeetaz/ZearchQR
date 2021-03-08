@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "93509DB6-08D7-4514-A725-30C01711AE8D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7305D697-BF4C-412D-ACCD-D7D40D168D9D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZearchQR_v2/StartGameView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "154"
+            endingLineNumber = "154"
+            landmarkName = "PlayingView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "7305D697-BF4C-412D-ACCD-D7D40D168D9D - 5163baf4d5c6283b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ZearchQR_v2.PlayingView.init() -&gt; ZearchQR_v2.PlayingView"
+                  moduleName = "ZearchQR_v2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikzettergren/Documents/ZearchQR_v2/ZearchQR_v2/StartGameView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "173"
+                  endingLineNumber = "173"
+                  offsetFromSymbolStart = "200">
+               </Location>
+               <Location
+                  uuid = "7305D697-BF4C-412D-ACCD-D7D40D168D9D - dff1c4abc7f87469"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ZearchQR_v2.PlayingView.init(mode: SwiftUI.Environment&lt;SwiftUI.Binding&lt;SwiftUI.PresentationMode&gt;&gt;, timeRemaining: Swift.Int, running: Swift.Bool, temp_toRun: Swift.Int) -&gt; ZearchQR_v2.PlayingView"
+                  moduleName = "ZearchQR_v2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikzettergren/Documents/ZearchQR_v2/ZearchQR_v2/StartGameView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "174"
+                  endingLineNumber = "174"
+                  offsetFromSymbolStart = "140">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
